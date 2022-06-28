@@ -1,3 +1,5 @@
+export { default as AppFooter } from '../../components/AppFooter.vue'
+export { default as AppNavigation } from '../../components/AppNavigation.vue'
 export { default as NuxtLogo } from '../../components/NuxtLogo.vue'
 export { default as Tutorial } from '../../components/Tutorial.vue'
 

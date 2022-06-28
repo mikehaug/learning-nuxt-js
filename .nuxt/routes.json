@@ -1,9 +1,16 @@
 [
   {
+    "name": "gallery",
+    "path": "/gallery",
+    "component": "/Users/mikehauglid/learn/learning-nuxt-js/pages/gallery.vue",
+    "chunkName": "pages/gallery",
+    "_name": "_8ade5630"
+  },
+  {
     "name": "index",
     "path": "/",
-    "component": "/Users/mikehauglid/learn/learning-nuxt-js/learning-nuxt/pages/index.vue",
+    "component": "/Users/mikehauglid/learn/learning-nuxt-js/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_734e0b2a"
+    "_name": "_e600a430"
   }
 ]

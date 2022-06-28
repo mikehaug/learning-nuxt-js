@@ -1,4 +1,10 @@
 {
+  "AppFooter": {
+    "description": "Auto imported from components/AppFooter.vue"
+  },
+  "AppNavigation": {
+    "description": "Auto imported from components/AppNavigation.vue"
+  },
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
   },
